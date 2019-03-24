@@ -1,0 +1,78 @@
+
+{
+  "data": [
+	{
+      "type": "job",
+      "date": "September 2018",
+      "description": {
+        "what": "Completed yearly Machine Learning Priorities",
+        "emphasis": "Completed",
+        "info": "Successfully finished yearly Machine Learning priorities for the organization 4 months ahead of schedule"
+      }
+    },
+	{
+      "type": "event",
+      "date": "June 2018",
+      "description": {
+        "what": "Adopted my first puppy!",
+        "emphasis": "Adopted",
+        "info": "A beautiful pupper came to my life. He had a Dobby like face, so we called him Dobby!"
+      }
+    },
+	{
+      "type": "job",
+      "date": "January 2018",
+      "description": {
+        "what": "Lead Machine Learning Developer",
+        "emphasis": "Lead",
+        "info": "I became the lead Machine Learning Developer at my organization! Fancy title, right?"
+      }
+    },
+	{
+      "type": "fun",
+      "date": "November 2017",
+      "description": {
+        "what": "Published my first Alexa Skill",
+        "emphasis": "Published",
+        "info": "I published my fist Alexa Skill called "Pi Number Upto Thousand Decimals", I received a free Hoodie from Amazon for it!"
+      }
+    },
+    {
+      "type": "job",
+      "date": "June 2017",
+      "description": {
+        "what": "Joined",
+        "emphasis": "Invistics Corporation",
+        "info": "I started my first fulltime job as a developer at <a href='https://www.invistics.com'>Invistics Corporation</a>!"
+      }
+    },
+    {
+      "type": "job",
+      "date": "June 2017",
+      "description": {
+        "what": "Moved",
+        "emphasis": "Atlanta",
+        "info": "Moved to Atlanta, Georgia!"
+      }
+    },
+	{
+      "type": "event",
+      "date": "May 2017",
+      "description": {
+        "what": "Letter of Recommendation",
+        "emphasis": "Letter of Recommendation",
+        "info": "Received a Letter of Recommendation from my Statistics professor for being an outstanding student! Class rank: 7/56. You can check it out at my LinkedIn profile!"
+      }
+    },
+    {
+      "type": "event",
+      "date": "May 2017",
+      "description": {
+        "what": "Graduated",
+        "emphasis": "Graduated with Master's",
+        "info": "Graduated with a Master's in Computer Science from the University of Florida, Gainesville, Florida. GPA 3.86/4, proud! Woo-hoo!!"
+      }
+    }
+    
+  ]
+}
