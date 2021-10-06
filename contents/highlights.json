@@ -1,6 +1,15 @@
 
 {
   "data": [
+	  {
+      "type": "job",
+      "date": "September 2021",
+      "description": {
+        "what": "Joined Workday as Software Development Engineer",
+        "emphasis": "Started",
+        "info": ""
+      }
+    },
 	{
       "type": "event",
       "date": "May 2020",
